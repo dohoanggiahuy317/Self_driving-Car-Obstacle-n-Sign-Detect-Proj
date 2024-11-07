@@ -16,3 +16,10 @@ You can read more in the report.docx in the file
 
 <img width="382" alt="image" src="https://user-images.githubusercontent.com/72744045/184697255-0979c976-7cca-47b2-b3cc-ea0e8967ad34.png">
 <img width="449" alt="image" src="https://user-images.githubusercontent.com/72744045/184697294-525353e7-1ff9-456f-a60d-976158516da5.png">
+
+
+## Image of the product
+
+![Screenshot 2024-11-06 at 10 11 11 PM](https://github.com/user-attachments/assets/fe421983-1b76-4cbb-b42e-75ea71536f40)
+![Screenshot 2024-11-06 at 10 11 53 PM](https://github.com/user-attachments/assets/706dd980-94ab-4a37-864f-578e2c055343)
+![Screenshot 2024-11-06 at 10 12 33 PM](https://github.com/user-attachments/assets/2cf32ac3-bd80-4e43-aed9-fd7f827988fb)
